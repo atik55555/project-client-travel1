@@ -1,6 +1,6 @@
 # Country Travel 
 
-Live link [Country Travel](https://country-travel-78386.web.app/).
+
 
 * Traveling fosters a medium to build human connections with one another by learning about culture.
 * Traveling is also important for human happiness and mental health.
